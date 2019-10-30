@@ -1,1 +1,1 @@
-
+Although this would be much easier using list comprehensions in Python, I thought I would take a stab at implementing a Markov Process in Java. After parsing a 'corpus' text file copied in a particular language, the process iterates in order to generate nonsense words/text that looks similar to the given language. Compare the results using different texts, e.g. training the model with Rashomon vs. Alice in Wonderland!
